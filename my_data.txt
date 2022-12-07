@@ -1,0 +1,5 @@
+train_images/IMG_0684.JPG,837,346,981,456,G
+train_images/IMG_0683.JPG,837,346,981,456,NG
+train_images/IMG_0682.JPG,837,346,981,456,G
+train_images/IMG_0681.JPG,837,346,981,456,NG
+train_images/IMG_0680.JPG,837,346,981,456,G
